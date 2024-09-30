@@ -5,7 +5,6 @@ import org.openqa.selenium.WebDriver;
 import static locators.ContactUpLocator.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-
 public class ContactUp extends PageBase {
 
     private WebDriver driver;
